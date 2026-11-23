@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asfakur-rahat&label=Profile%20views&color=0e75b6&style=flat" alt="asfakur-rahat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-repo.vercel.app/?username=asfakur-rahat]" alt="asfakur-rahat" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-repo.vercel.app/?username=asfakur-rahat" alt="asfakur-rahat" />
+  </a>
+</p>
 
 - My portfolio - [Md Asfsakur Rahat](https://ar-rahat.github.io/)
 
